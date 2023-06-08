@@ -1,0 +1,19 @@
+/*-----header-----*/
+header {
+    height: 400px;
+}
+
+
+/*-----main-----*/
+article {
+    width: 1000px;
+}
+
+h1 {
+    font-size: 40px;
+    color: darkslategrey;
+}
+
+p {
+    color: dimgrey;
+}
